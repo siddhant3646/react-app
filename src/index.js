@@ -7,5 +7,3 @@ const rootDiv = document.getElementById("root"); // pointing towards the DIV wit
 const reactRoot = ReactDOM.createRoot(rootDiv); //Creating our virtual dom and injecting it in the root div
 
 reactRoot.render(<App />); // Here app is the compone which is created in the APP.js file, we are just calling it here.
-
-// Siddhant was here. Did what? Good question Order food..started learning about the react with udemy's help.
