@@ -29,6 +29,7 @@ export function App()
 return (
     <>
     <Greetings />
+    <input type="text"></input>
     </>
 );
 }
